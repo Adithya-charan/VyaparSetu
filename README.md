@@ -320,23 +320,6 @@ Before pushing, verify that no secret files or virtual-environment files are tra
 
 ---
 
-## Roadmap
-
-- [x] React frontend foundation
-- [x] AI Business Mentor
-- [x] Groq LLM integration
-- [x] Sarvam STT/TTS integration
-- [x] Beyond Presence managed-agent integration
-- [x] LiveKit human-to-human calling
-- [x] Multilingual foundation
-- [ ] Production-ready map data integration
-- [ ] Real business/location data integration
-- [ ] Matching engine with production data
-- [ ] Agent verification workflow
-- [ ] Admin dashboard enhancements
-- [ ] Production deployment
-
----
 
 ## Demo Scenario
 
