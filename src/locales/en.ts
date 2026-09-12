@@ -1,0 +1,67 @@
+export const en = {
+  translation: {
+    common: {
+      appName: 'FormalSaathi',
+      tagline: 'Bridging Informal Businesses to Formal Growth',
+      loading: 'Loading...',
+      error: 'Something went wrong.',
+      search: 'Search...',
+      filters: 'Filters',
+      apply: 'Apply',
+      clear: 'Clear',
+      viewDetails: 'View Details',
+      requestContact: 'Request Owner Contact',
+    },
+    nav: {
+      home: 'Home',
+      intake: 'Profile Intake',
+      roadmap: 'Roadmap',
+      vault: 'Document Vault',
+      costBenefit: 'Cost & Benefit',
+      aiMentor: 'AI Mentor',
+      videoCall: 'Video Call',
+      landMap: 'Find Business Land',
+      ownerDashboard: 'Owner Dashboard'
+    },
+    landMap: {
+      title: 'Find Business Land',
+      subtitle: 'Discover suitable land/property for your business',
+      businessType: 'Business Type',
+      budget: 'Approximate Budget',
+      size: 'Required Land Size (sq.ft)',
+      listingType: 'Listing Type',
+      sale: 'Sale',
+      lease: 'Lease',
+      suitabilityScore: 'Suitability Score',
+      area: 'Area',
+      estimatedPrice: 'Estimated Price/Rent',
+      roadDistance: 'Road Distance',
+      marketDistance: 'Market Distance',
+      verification: 'Verification Status',
+      source: 'Source',
+      lastVerified: 'Last Verified',
+      actions: 'Actions',
+      getDirections: 'Get Directions',
+      owner: 'Owner',
+      disclaimer: 'Suitability is a recommendation based on available data and does not constitute legal, ownership, zoning, or planning approval.',
+      filters: 'Map Filters',
+      verified: 'Verified',
+      unverified: 'Unverified',
+      all: 'All',
+      any: 'Any',
+      noResults: 'No land parcels found matching your criteria.'
+    },
+    ownerDashboard: {
+      title: 'Owner Dashboard',
+      subtitle: 'Manage your property listings and contact requests',
+      addProperty: 'Add Property',
+      contactRequests: 'Contact Requests',
+      accept: 'Accept',
+      decline: 'Decline',
+      noRequests: 'No pending contact requests.',
+      statusPending: 'Pending',
+      statusAccepted: 'Accepted',
+      statusDeclined: 'Declined'
+    }
+  }
+};

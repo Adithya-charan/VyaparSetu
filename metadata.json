@@ -1,0 +1,6 @@
+{
+  "name": "FormalSaathi",
+  "description": "Your Business Formalization Partner - Simple guidance on business registration, Udyam, GST, trade licenses, and formal credit for Indian retailers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

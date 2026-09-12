@@ -1,0 +1,67 @@
+export const hi = {
+  translation: {
+    common: {
+      appName: 'फॉर्मलसाथी (FormalSaathi)',
+      tagline: 'अनौपचारिक व्यवसायों को औपचारिक विकास से जोड़ना',
+      loading: 'लोड हो रहा है...',
+      error: 'कुछ गलत हो गया।',
+      search: 'खोजें...',
+      filters: 'फ़िल्टर',
+      apply: 'लागू करें',
+      clear: 'साफ़ करें',
+      viewDetails: 'विवरण देखें',
+      requestContact: 'मालिक से संपर्क का अनुरोध करें',
+    },
+    nav: {
+      home: 'होम',
+      intake: 'प्रोफ़ाइल',
+      roadmap: 'रोडमैप',
+      vault: 'दस्तावेज़ वॉल्ट',
+      costBenefit: 'लागत और लाभ',
+      aiMentor: 'एआई मेंटर',
+      videoCall: 'वीडियो कॉल',
+      landMap: 'व्यापार के लिए ज़मीन खोजें',
+      ownerDashboard: 'मालिक डैशबोर्ड'
+    },
+    landMap: {
+      title: 'व्यापार के लिए ज़मीन खोजें',
+      subtitle: 'अपने व्यापार के लिए उपयुक्त ज़मीन/संपत्ति खोजें',
+      businessType: 'व्यापार का प्रकार',
+      budget: 'अनुमानित बजट',
+      size: 'आवश्यक भूमि का आकार (वर्ग फुट)',
+      listingType: 'सूची का प्रकार',
+      sale: 'बिक्री',
+      lease: 'पट्टा (Lease)',
+      suitabilityScore: 'उपयुक्तता स्कोर',
+      area: 'क्षेत्रफल',
+      estimatedPrice: 'अनुमानित कीमत/किराया',
+      roadDistance: 'सड़क से दूरी',
+      marketDistance: 'बाजार से दूरी',
+      verification: 'सत्यापन स्थिति',
+      source: 'स्रोत',
+      lastVerified: 'अंतिम सत्यापित',
+      actions: 'कार्रवाई',
+      getDirections: 'दिशा-निर्देश प्राप्त करें',
+      owner: 'मालिक',
+      disclaimer: 'उपयुक्तता उपलब्ध डेटा के आधार पर एक सिफ़ारिश है और यह कानूनी, स्वामित्व, ज़ोनिंग या योजना अनुमोदन का गठन नहीं करता है।',
+      filters: 'मैप फ़िल्टर',
+      verified: 'सत्यापित',
+      unverified: 'असत्यापित',
+      all: 'सभी',
+      any: 'कोई भी',
+      noResults: 'आपके मानदंडों से मेल खाने वाली कोई ज़मीन नहीं मिली।'
+    },
+    ownerDashboard: {
+      title: 'मालिक डैशबोर्ड',
+      subtitle: 'अपनी संपत्ति सूची और संपर्क अनुरोध प्रबंधित करें',
+      addProperty: 'संपत्ति जोड़ें',
+      contactRequests: 'संपर्क अनुरोध',
+      accept: 'स्वीकार करें',
+      decline: 'अस्वीकार करें',
+      noRequests: 'कोई लंबित संपर्क अनुरोध नहीं है।',
+      statusPending: 'लंबित',
+      statusAccepted: 'स्वीकृत',
+      statusDeclined: 'अस्वीकृत'
+    }
+  }
+};
